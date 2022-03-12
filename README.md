@@ -167,12 +167,14 @@ HTTP/1.1 204 No Content
 
 ### Wireframe:
 
-![Wireframe](https://i.imgur.com/JrbKKIU.png)
+![Wireframe](https://i.imgur.com/ayfbSd3.png)
+
 
 
 ### ERD:
 
-![ERD](https://i.imgur.com/hMLIxCf.png)
+![ERD](https://i.imgur.com/xZLUmYf.png)
+
 
 
 
@@ -181,4 +183,3 @@ HTTP/1.1 204 No Content
 1. All content is licensed under a CC­BY­NC­SA 4.0 license.
 1. All software code is licensed under GNU GPLv3. For commercial use or
     alternative licensing, please contact legal@ga.co.
-# family-backend
