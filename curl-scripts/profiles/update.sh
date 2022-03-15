@@ -1,7 +1,7 @@
 #!/bin/bash
 
 API="http://localhost:4741"
-URL_PATH="/products"
+URL_PATH="/profiles"
 
 curl "${API}${URL_PATH}/${ID}" \
   --include \
@@ -10,10 +10,8 @@ curl "${API}${URL_PATH}/${ID}" \
 --header "Authorization: Bearer ${TOKEN}" \
 --data '{
     "product": {
-      "text": "'"${TEXT}"'",
-      "description": "'"${TITLE}"'",
-      "price":"'"${PRICE}"'",
-      "countInStock":"'"${COUNTINSTOCK}"'"
+      "name": "'"${NAME}"'",
+      "about": "'"${ABOUT}"'"
     }
   }'
 
