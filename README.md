@@ -32,6 +32,19 @@ Family is a restaurant website where user can order different popular  kind of f
 - Redux
 - Awesome Icon 
 
+### Set Up and Installation Instructions
+
+- Download or clone Repositories
+
+- npm run server.js
+
+Run the app in the development mode.
+Open localhost to view in the browser.
+
+Page reload each tim you make edits.
+You will also see any lint errors in the console.
+
+
 
 ## API
 
@@ -176,6 +189,16 @@ HTTP/1.1 204 No Content
 ![ERD](https://i.imgur.com/xZLUmYf.png)
 
 
+### List of Problems which would be fixed in future
+
+- Added Item to Cart
+- Added Checkout Payment
+- Delete Item from the Cart
+- Added Home Screen
+- Added About Screen
+- Styling all Reference Mention
+- Work in Profile Styling
+- Added Products information  in backend 
 
 
 ## [License](LICENSE)
